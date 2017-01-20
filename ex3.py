@@ -21,3 +21,15 @@ print "How about some more."
 print "Is it greater?", 5  > -2
 print "Is it greater or equal?", 5 >= -2
 print "Is it less or eqaul?", 5 <= -2
+
+'''
++ plus
+- minus
+/ slash
+* asterisk
+% percent
+< less-than
+> greater-than
+<= less-than-equal
+>= greater-than-equal
+'''

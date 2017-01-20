@@ -20,3 +20,10 @@ print w + e"""
 
 er = "Does ' this make more of these?"
 print "How does this er work? %d." % er
+
+
+"""
+%d will format a number for display.
+%s will insert the presentation string representation of the object (i.e. str(o))
+%r will insert the canonical string representation of the object (i.e. repr(o))
+"""
